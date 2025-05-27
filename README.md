@@ -7,6 +7,9 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 #### 👍 Languages I'm indifferent to but comfortable in...
 - Lua
 
+#### ⚠️ Languages I know but need more practice in...
+- Java
+
 #### 📚 Languages that I'm working on picking up or want to eventually...
 - C
 - Go
