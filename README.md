@@ -18,11 +18,8 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 
 ---
 
-#### ✏️ Projects I'm working on:
+#### ✏️ Favorite projects that I've worked on so far:
 - [PacLean](https://github.com/lly-h/paclean) (Python) - An interactive package cleaner for Arch Linux
-- Blou (not published yet) (Go) - An upcoming Discord bot - master of community and event management, jack of many trades
-- Phylactery (not published yet) (Python) - A Discord bot for D&D campaigns
-- calibre-mouse (not published yet) (Python) - A tool to interact with MyAnonaMouse's API and automate eBook downloads
 
 ---
 
