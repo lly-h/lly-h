@@ -2,19 +2,19 @@
 I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of trails, and enjoyer of all art. I believe that knowledge is power and that anyone, with enough time, has the ability to do whatever they set their mind to!
 
 #### 🌟 Languages I'm comfortable in and enjoy...
-- Python
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 #### 👍 Languages I'm indifferent to but comfortable in...
-- Lua
+[![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
 
 #### 🚩 Languages I know but need more practice in...
-- Java
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-#### 📚 Languages that I'm working on picking up or want to eventually...
-- C
-- Go
-- Rust <sup>\* want to learn</sup>
-- HTMX <sup>\* want to learn</sup>
+#### 📚 Languages that I'm working on picking up...
+[![My Skills](https://skillicons.dev/icons?i=c,go)](https://skillicons.dev)
+
+#### 🌠 Languages that I want to pick up and learn...
+[![My Skills](https://skillicons.dev/icons?i=rust,htmx)](https://skillicons.dev)
 
 ---
 
