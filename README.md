@@ -31,4 +31,4 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 
 ---
 
-###### [📧 Let's get in touch!](mailto:github@lly.email)
+##### [📫 Let's get in touch!](mailto:github@lly.email)
