@@ -7,11 +7,11 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 #### 👍 Languages I'm indifferent to but comfortable in...
 - Lua
 
-#### 📚 Languages that I'm working on picking up...
+#### 📚 Languages that I'm working on picking up or want to eventually...
 - C
 - Go
-- Rust
-- MicroPython
+- Rust <sup>\* want to learn</sup>
+- HTMX <sup>\* want to learn</sup>
 
 ---
 
