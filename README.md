@@ -1,5 +1,5 @@
 ### Hi, I'm Eleina! 👋 <sup> *\~or Ellie/L for short!\~* </sup>
-I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of trails, and enjoyer of all art. I believe that knowledge is power and that anyone, with enough time, has the power to do whatever they set their mind to!
+I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of trails, and enjoyer of all art. I believe that knowledge is power and that anyone, with enough time, has the ability to do whatever they set their mind to!
 
 #### 🌟 Languages I'm comfortable in and enjoy...
 - Python
