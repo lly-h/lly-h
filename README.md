@@ -5,10 +5,10 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 #### 👍 Languages I'm indifferent to but comfortable in...
-[![My Skills](https://skillicons.dev/icons?i=lua,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)
 
 #### 🚩 Languages I know but need more practice in...
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
 
 #### 📚 Languages that I'm working on picking up...
 [![My Skills](https://skillicons.dev/icons?i=nix,c,go,html,css)](https://skillicons.dev)
