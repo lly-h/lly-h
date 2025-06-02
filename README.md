@@ -11,7 +11,7 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 #### 📚 Languages that I'm working on picking up...
-[![My Skills](https://skillicons.dev/icons?i=c,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix,c,go,html,css)](https://skillicons.dev)
 
 #### 🌠 Languages that I want to pick up and learn...
 [![My Skills](https://skillicons.dev/icons?i=rust,htmx)](https://skillicons.dev)
