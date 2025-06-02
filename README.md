@@ -30,4 +30,9 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 
 ---
 
-##### [📫 Let's get in touch!](mailto:github@lly.email)
+##### <p align="center"> Current Environment </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,neovim,obsidian,pycharm" />
+  </a>
+</p>
