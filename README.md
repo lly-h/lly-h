@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/2da8c4b6-b26a-4375-827c-bf842d8ff17b/thumbnail" style="width:45%; height:45%;">
+  <img src="https://api.boot.dev/v1/users/public/2da8c4b6-b26a-4375-827c-bf842d8ff17b/thumbnail" width="320" height="180">
 </p>
 
 ### Hi, I'm Eleina! 👋 <sup> *\~or Ellie/L for short!\~* </sup>
