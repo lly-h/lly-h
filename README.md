@@ -29,5 +29,5 @@ I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of 
 - I love to hike and go touch grass, it's quite relaxing and a great way to decompress.
 
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/2da8c4b6-b26a-4375-827c-bf842d8ff17b/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/2da8c4b6-b26a-4375-827c-bf842d8ff17b/thumbnail" style="width:50%; height:50%;">
 </p>
