@@ -1,20 +1,17 @@
 ### Hi, I'm Eleina! 👋 <sup> *\~or Ellie/L for short!\~* </sup>
 I'm a solver of puzzles, lover of all music, petter of dogs & cats, explorer of trails, and enjoyer of all art. I believe that knowledge is power and that anyone, with enough time, has the ability to do whatever they set their mind to!
 
-#### 🌟 Languages I'm comfortable in and enjoy...
+#### 🌟 Languages I'm comfortable in...
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-#### 👍 Languages I'm indifferent to but comfortable in...
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-
 #### 🚩 Languages I know but need more practice in...
-[![My Skills](https://skillicons.dev/icons?i=java,lua,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
 
 #### 📚 Languages I'm working on picking up...
-[![My Skills](https://skillicons.dev/icons?i=nix,c,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix,c,go)](https://skillicons.dev)
 
 #### 🌠 Languages I want to pick up and learn...
-[![My Skills](https://skillicons.dev/icons?i=haskell,rust,htmx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haskell,rust,cpp)](https://skillicons.dev)
 
 ---
 
